@@ -1,0 +1,41 @@
+[
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b57"
+    },
+    "type": "article",
+    "author": "Hackney, A., Du, B., Yung, M., Yazdani, A. ",
+    "year": "2020",
+    "title": "Brief Report on Initial Key Findings of National Survey on the Impact of Working from Home on Physical and Mental health of Canadians. ",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b58"
+    },
+    "type": "article",
+    "author": "Somasundram, K. G., Hackney, A., Yung, M., Du, B., Oakman, J., Nowrouzi-Kia, B., & Yazdani, A. ",
+    "year": "2022",
+    "title": "Mental and physical health and well-being of Canadian employees who were working from home during the COVID-19 pandemic.",
+    "publisher": "BMC Public Health.",
+    "vol": "22(1)",
+    "page": "1-13.",
+    "desc": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b59"
+    },
+    "type": "article",
+    "author": "Hackney, A., Yung, M., Nowrouzi-Kia, B., Oakman, J., Yazdani, A.",
+    "year": "2020",
+    "title": "Working in the Digital Economy: A Scoping Review of the Impact from Home Arrangements on Personal and Organizational Performance and Productivity. ",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "vol": "17(10)",
+    "desc": "e0274728",
+    "page": ""
+  }
+]
