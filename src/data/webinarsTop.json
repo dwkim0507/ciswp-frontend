@@ -1,0 +1,22 @@
+[
+  {
+    "_id": {
+      "$oid": "65416434175cef0fc4243cfa"
+    },
+    "title": "Work Disability Management in the Paramedic Service Organizations: Disabilities Associated with OSI",
+    "subject": "Work Disability Management ",
+    "date": "September 19, 2022",
+    "videoId": "5kaQPn701HI",
+    "desc": "In this webinar, a focus is given towards prevention and the management of work disability related to operational stress injuries (OSI) and other mental health and well-being conditions of workers in the paramedic service organization. In this webinar, panelists discuss their experience and perspectives on managing disabilities associated with OSI."
+  },
+  {
+    "_id": {
+      "$oid": "65416434175cef0fc4243cfc"
+    },
+    "title": "Working in the Work-from-Home era: Navigating Work-life Balance",
+    "subject": "Work from Home",
+    "date": "January 17, 2022",
+    "videoId": "oZ8_TBw4zNk",
+    "desc": "In this webinar we will discuss the impacts that work-from-home (WFH) arrangements have on work-life balance of Canadian workers. The webinar will highlight important findings from a nation-wide WFH survey and follow-up study conducted by the Canadian Institute for Safety, Wellness, and Performance (CISWP) aimed at examining the impact the WFH arrangements have on Canadian’s health and wellbeing and will also outline key considerations for organizations with WFH employees."
+  }
+]

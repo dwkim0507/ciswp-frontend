@@ -1,0 +1,347 @@
+[
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b57"
+    },
+    "pubId": "0000001",
+    "project": "w_002",
+    "type": "article",
+    "author": "Hackney, A., Du, B., Yung, M., Yazdani, A. ",
+    "year": "2020",
+    "title": "Brief Report on Initial Key Findings of National Survey on the Impact of Working from Home on Physical and Mental health of Canadians. ",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b58"
+    },
+    "pubId": "0000002",
+    "project": "w_002",
+    "type": "article",
+    "author": "Somasundram, K. G., Hackney, A., Yung, M., Du, B., Oakman, J., Nowrouzi-Kia, B., & Yazdani, A. ",
+    "year": "2022",
+    "title": "Mental and physical health and well-being of Canadian employees who were working from home during the COVID-19 pandemic.",
+    "publisher": "BMC Public Health.",
+    "vol": "22(1)",
+    "page": "1-13.",
+    "desc": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b59"
+    },
+    "pubId": "0000003",
+    "project": "w_003",
+    "type": "article",
+    "author": "Hackney, A., Yung, M., Nowrouzi-Kia, B., Oakman, J., Yazdani, A.",
+    "year": "2020",
+    "title": "Working in the Digital Economy: A Scoping Review of the Impact from Home Arrangements on Personal and Organizational Performance and Productivity. ",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "vol": "17(10)",
+    "desc": "e0274728",
+    "page": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b5a"
+    },
+    "pubId": "0000004",
+    "project": "w_003",
+    "type": "article",
+    "author": "Hackney, A., Yung, M., Somasundram, K. G., Nowrouzi-Kia, B., Oakman, J., & Yazdani, A. ",
+    "year": "2022",
+    "title": "Working in the digital economy: A systematic review of the impact of work from home arrangements on personal and organizational performance and productivity. ",
+    "publisher": "Plos one.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b5b"
+    },
+    "pubId": "0000005",
+    "project": "e_003",
+    "type": "article",
+    "author": "Du, B., Yung, M., Gruber, J., Tompa, E., & Yazdani, A. ",
+    "year": "2020",
+    "title": "Work Disability Management of PTSI in Paramedic Service Organizations: A Needs Assessment. ",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b5c"
+    },
+    "pubId": "0000006",
+    "project": "e_003",
+    "type": "article",
+    "author": "Du, B., Yung, M., Gruber, J., Tompa, E., & Yazdani, A. ",
+    "year": "2020",
+    "title": "Prevention & Management of PTSI in Paramedic Service Organizations: An Environmental Scan of Recommended Programs and Practices.",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b5d"
+    },
+    "pubId": "0000007",
+    "project": "e_003",
+    "type": "article",
+    "author": "Du, B. B., Yung, M., Gruber, J., & Yazdani, A. ",
+    "year": "2022",
+    "title": "Organizational strategies to address post-traumatic stress injuries among Canadian paramedics.",
+    "publisher": "Work.",
+    "vol": "72(3)",
+    "page": "1035-1045",
+    "desc": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b5e"
+    },
+    "pubId": "0000008",
+    "project": "h_002",
+    "type": "article",
+    "author": "Yung, M., Du, B., Gruber, J., & Yazdani, A. ",
+    "year": "2021",
+    "title": "Developing a Canadian fatigue risk management standard for first responders: Defining the scope. Safety Science",
+    "page": "134",
+    "desc": "105044",
+    "publisher": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b5f"
+    },
+    "pubId": "0000009",
+    "project": "h_002",
+    "type": "article",
+    "author": "Yung, M., Du, B., Gruber, J., Hackney, A., & Yazdani, A. ",
+    "year": "2022",
+    "title": "Fatigue measures and risk assessment tools for first responder fatigue risk management: A scoping review with considerations of the multidimensionality of fatigue. ",
+    "publisher": "Safety science.",
+    "page": "154",
+    "desc": "105839",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b60"
+    },
+    "pubId": "0000010",
+    "project": "h_002",
+    "type": "article",
+    "author": "Gruber, J., Yung, M., Du, B., & Yazdani, A. ",
+    "year": "2020",
+    "title": "Current fatigue risk management strategies for first responders. ",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b61"
+    },
+    "pubId": "0000011",
+    "project": "h_002",
+    "type": "article",
+    "author": "Yung, M., Gruber, J., Du, B., & Yazdani, A. ",
+    "year": "2020",
+    "title": "Fatigue risk management for first responders: Current landscape of perspectives, policies, and practices.",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b62"
+    },
+    "pubId": "0000012",
+    "project": "h_002",
+    "type": "article",
+    "author": "Yung, M., Gruber, J., Du, B., & Yazdani, A. ",
+    "year": "2020",
+    "title": "Fatigue risk management for first responders: State of knowledge.",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b63"
+    },
+    "pubId": "0000013",
+    "project": "h_003",
+    "type": "article",
+    "author": "Du, B., Boileau, M., Wierts, K., Karch, S. B., Yung, M., Fischer, S., & Yazdani, A.",
+    "year": "2020",
+    "title": "Exploring the need for and application of human factors and ergonomics in ambulance design: Overcoming the barriers with technical standards. ",
+    "publisher": "Applied Ergonomics.",
+    "page": "88",
+    "desc": "103144",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b64"
+    },
+    "pubId": "0000014",
+    "project": "h_003",
+    "type": "article",
+    "author": "Du, B., Boileau, M., Wierts, K., Hignett, S., Fischer, S., & Yazdani, A.",
+    "year": "2019",
+    "title": "Existing science on human factors and ergonomics in the design of ambulances and EMS equipment.",
+    "publisher": "Prehospital emergency care.",
+    "vol": "23(5)",
+    "page": "631-646",
+    "desc": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b65"
+    },
+    "pubId": "0000015",
+    "project": "h_003",
+    "type": "article",
+    "author": "Du, B., Fischer, S., & Yazdani, A. ",
+    "year": "2019",
+    "title": "An Approach to Inject HFE into Existing Design Standards. In Proceedings of the 20th Congress of the International Ergonomics Association (IEA 2018) Volume VII: Ergonomics in Design, Design for All, Activity Theories for Work Analysis and Design",
+    "publisher": "Springer International Publishing",
+    "vol": "Affective Design 20.",
+    "page": "1230-1235",
+    "desc": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b66"
+    },
+    "pubId": "0000016",
+    "project": "h_003",
+    "type": "article",
+    "author": "Du, B., Boileau, M., Wierts, K., Fischer, S., & Yazdani, A.",
+    "year": "2019",
+    "title": "State of Research in the Design and Development of Emergency Response Vehicles and Equipment: A Scoping Review. In Proceedings of the 20th Congress of the International Ergonomics Association (IEA 2018) Volume VII: Ergonomics in Design, Design for All, Activity Theories for Work Analysis and Design",
+    "publisher": "Springer International Publishing",
+    "vol": "Affective Design 20.",
+    "page": "1224-1229",
+    "desc": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b67"
+    },
+    "pubId": "0000017",
+    "project": "h_003",
+    "type": "article",
+    "author": "Amin Yazdani, A., Fischer, S. ",
+    "year": "2019",
+    "title": "Inclusion of HFE Principles in the Development of a National Design Standard for Ambulances. International Scientific Conference on Work-related Musculoskeletal Disorders (PREMUS)",
+    "publisher": "Bologna, Italy.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b68"
+    },
+    "pubId": "0000018",
+    "project": "h_004",
+    "type": "article",
+    "author": "Du, B.B., Rezvani, S., Bigelow, P., Nowrouzi-Kia, B., Boscart, V. M., Yung, M., Yazdani, A. ",
+    "year": "2022",
+    "title": "Synthesis of evidence to support EMS personnel’s mental health during disease outbreaks: a scoping review. ",
+    "publisher": "Safety and Health at Work.",
+    "vol": "13(4)",
+    "page": "379-386",
+    "desc": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b69"
+    },
+    "pubId": "0000019",
+    "project": "h_004",
+    "type": "article",
+    "author": "Du, B., Yung, M., Rezvani, S., Hackney, A., Yazdani, A.",
+    "year": "2021",
+    "title": "Addressing Operational Stress Injuries during Infectious Public Health Crises: A Guide for Paramedic Service Organizations (pdf).",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b6a"
+    },
+    "pubId": "0000020",
+    "project": "h_004",
+    "type": "article",
+    "author": "Du, B., Yung, M., Rezvani, S., Hackney, A., Yazdani, A.",
+    "year": "2021",
+    "title": "Addressing Operational Stress Injuries for Infectious Public Health Crises: A Quick Start Guide for Paramedic Service Organizations.",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b6b"
+    },
+    "pubId": "0000021",
+    "project": "h_004",
+    "type": "article",
+    "author": "Du, B., Yung, M., Rezvani, S., Hackney, A., Yazdani, A. ",
+    "year": "2021",
+    "title": "Addressing Operational Stress Injuries during Infectious Public Health Crises: Self-Reflection Tool for Paramedic Service Organizations.",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b6c"
+    },
+    "pubId": "0000022",
+    "project": "w_004",
+    "type": "article",
+    "author": "Du, B., & Yazdani, A.",
+    "year": "2021",
+    "title": "Baseline Study on Organizational Readiness for the Adoption of a Canadian Standard on Management of Impairment in the Workplace.",
+    "publisher": "Canadian Institute for Safety, Wellness, & Performance (CISWP). Kitchener, ON.",
+    "desc": "",
+    "page": "",
+    "vol": ""
+  },
+  {
+    "_id": {
+      "$oid": "65400369bb65f8c667ea0b6d"
+    },
+    "pubId": "0000023",
+    "project": "w_005",
+    "type": "article",
+    "author": "Toth, K. E., Yvon, F., Villotti, P., Lecomte, T., Lachance, J. P., Kirsh, B., ... & Corbière, M.",
+    "year": "2022",
+    "title": "Disclosure dilemmas: how people with a mental health condition perceive and manage disclosure at work. ",
+    "publisher": "Disability and Rehabilitation.",
+    "vol": "44(25)",
+    "page": "7791-7801",
+    "desc": ""
+  }
+]
