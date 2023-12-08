@@ -40,9 +40,8 @@
   font-weight: normal;
 }
 
-body {
-  margin: 0;
-  padding: 0;
+#root {
+  font-size: 16px;
 }
 
 .before_header {
@@ -105,11 +104,11 @@ p a {
   height: 70px;
   width: 103px;
   line-height: 100%;
-  letter-spacing: -0.2px;
+  letter-spacing: -0.3px;
 
   display: block;
   /* padding: 14px 21px; */
-  padding: 10px 10px;
+  padding: 10px 5px;
   border-radius: 10px 10px 0 0;
   font-size: 14px;
   font-weight: normal;
@@ -160,7 +159,7 @@ p a {
   color: white;
   position: absolute;
   background-color: rgba(22, 22, 22, 0.5);
-  top: 90px;
+  top: 80px;
   bottom: 0;
 }
 

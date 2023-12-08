@@ -21,7 +21,6 @@
    font-weight: 800;
 }
 
-
 /* Research Lab */
 
 .lab_hero {
@@ -64,8 +63,13 @@
    font-weight: bolder;
 }
 
+/* Start Lab */
 
-.stride_card_grid {
+.start_slide_img img {
+   border-radius: 10px;
+}
+
+.start_card_grid {
    /* margin-left: 50px; */
    display: grid;
    /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
@@ -74,27 +78,29 @@
    /* margin-bottom: 10px; */
 }
 
-.stride_card {
+.start_card {
    /* margin-top: 20px; */
    width: 100%;
    height: 100%;
+   padding: 0px;
+   margin: 0px;
    /* border: 1px solid #139086; */
    border: 2px solid rgba(222, 223, 222, 0.5);
-   border-radius: 20px;
+   border-radius: 10px;
    background-color: rgba(222, 223, 222, 0.5);
    /* box-shadow: 2 0 3px rgba(222, 223, 222, 0.5); */
 }
 
-.stride_card:hover {
+.start_card:hover {
    /* margin-top: 20px; */
    width: 100%;
    height: 100%;
    border: 2px solid #139086;
-   border-radius: 20px;
+   border-radius: 10px;
    /* box-shadow: 0 0 3px rgba(236, 240, 239, 0.5); */
 }
 
-.stride_card img {
+.start_card img {
    display: flex;
    margin: auto;
    width: 70%;
@@ -103,23 +109,25 @@
    /* align-items: center; */
 }
 
-#stride_card_img2 {
+#start_card_img2 {
    display: flex;
    margin: auto;
    padding-top: 18px;
-   width: 85%;
-   height: 85%;
+   width: 75%;
+   height: 83%;
    /* justify-content: center; */
    /* align-items: center; */
 }
 
-.stride_card_body {
+
+
+.start_card_body {
    /* margin-top: 20px; */
    height: 55px;
    text-align: center;
 }
 
-.stride_card_text {
+.start_card_text {
    padding: 10px;
    margin: 10px;
    text-decoration: none;
@@ -129,43 +137,42 @@
    color: black;
 }
 
-/* Stride Explore Room */
-.stride_explore {
+.start_explore {
    position: relative;
    margin: auto;
-   width: 100%
+   width: 98%;
 }
 
-.stride_explore img {
+.start_explore img {
    padding-top: 10px;
    display: flex;
    margin: auto;
-   width: 95%;
-   /* border-radius: 30px; */
+   width: 100%;
+   border-radius: 20px;
 }
 
-.stride_focus_text {
+.start_focus_text {
    padding: 10px 0 0 10px;
    font-family: Inter-SemiBold;
    font-size: 15px;
    color: black;
 }
 
-.stride_focus_text_desc {
+.start_focus_text_desc {
    padding: 10px;
    font-family: Inter-Regular;
    font-size: 12px;
    color: black;
 }
 
-#stride_explore_focus1 {
+#start_explore_focus1 {
    position: absolute;
    width: 50px;
    top: 15%;
    left: 19%;
 }
 
-#stride_explore_focus1_box {
+#start_explore_focus1_box {
    position: absolute;
    width: 15%;
    top: 27%;
@@ -176,24 +183,24 @@
    z-index: -999;
 }
 
-#stride_explore_focus1_box.on {
+#start_explore_focus1_box.on {
    z-index: 999;
 }
 
-#stride_explore_eq2 {
+#start_explore_eq2 {
    position: absolute;
    top: 65%;
    left: 68%;
 }
 
-#stride_explore_focus2 {
+#start_explore_focus2 {
    position: absolute;
    width: 50px;
    top: 55%;
    left: 67%;
 }
 
-#stride_explore_focus2_box {
+#start_explore_focus2_box {
    position: absolute;
    width: 15%;
    top: 40%;
@@ -204,24 +211,24 @@
    z-index: -999;
 }
 
-#stride_explore_focus2_box.on {
+#start_explore_focus2_box.on {
    z-index: 999;
 }
 
-#stride_explore_eq3 {
+#start_explore_eq3 {
    position: absolute;
    top: 65%;
    left: 75%;
 }
 
-#stride_explore_focus3 {
+#start_explore_focus3 {
    position: absolute;
    width: 50px;
    top: 55%;
    left: 75%;
 }
 
-#stride_explore_focus3_box {
+#start_explore_focus3_box {
    position: absolute;
    width: 15%;
    top: 40%;
@@ -232,18 +239,18 @@
    z-index: -999;
 }
 
-#stride_explore_focus3_box.on {
+#start_explore_focus3_box.on {
    z-index: 999;
 }
 
-#stride_explore_focus4 {
+#start_explore_focus4 {
    position: absolute;
    width: 50px;
    top: 58%;
    left: 39%;
 }
 
-#stride_explore_focus4_box {
+#start_explore_focus4_box {
    position: absolute;
    width: 15%;
    top: 45%;
@@ -254,18 +261,18 @@
    z-index: -999;
 }
 
-#stride_explore_focus4_box.on {
+#start_explore_focus4_box.on {
    z-index: 999;
 }
 
-/* Start Lab */
-.start_feature img {
+/* Stride Lab */
+.stride_feature img {
    width: 100%;
    margin: auto;
    display: flex;
 }
 
-.start_video img {
+.stride_video img {
    width: 70%;
    margin: auto;
    display: flex;
@@ -273,12 +280,15 @@
 
 /* Mission */
 .mission_title {
-   font-size: 42px;
+   /* font-size: 40px; */
+   font-size: 2.5em;
    font-family: Inter-Bold;
 }
 
 .mission_title2 {
-   font-size: 36px;
+   font-size: 2.2em;
+
+   /* font-size: 35px; */
    font-family: Inter-Bold;
    text-align: center;
    line-height: 120%;
@@ -305,15 +315,18 @@
 
 #mission_block1>img {
    float: right;
-   width: 500px;
+   width: 35%;
 }
 
 #mission_block2 {
-   display: inline-block;
+   margin-top: 30px;
+   display: grid;
+   grid-template-columns: repeat(auto-fill, 380px);
+   justify-content: center;
 }
 
-#mission_block2>img {
-   width: 100%;
+.mission_value {
+   margin-top: 20px;
 }
 
 /* Contact */
@@ -364,4 +377,22 @@
    font-weight: 400;
    margin: 30px;
    color: white;
+}
+
+/*pub detail information */
+
+.pub_detail {
+   width: 80%;
+}
+
+.pub_detail tr {
+   height: 35px;
+   font-size: 16px;
+   font-family: Inter-Regular;
+}
+
+.pub_detail_head {
+   width: 15%;
+   font-size: 16px;
+   font-family: Inter-Bold;
 }
