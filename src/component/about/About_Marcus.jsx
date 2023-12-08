@@ -43,8 +43,8 @@ export default function About_Marcus() {
                   from Simon Fraser University.</p>
 
                <h6>Publications</h6>
-               <p>See <a href="https://scholar.google.ca/citations?user=TF5YVAcAAAAJ&hl=en&oi=ao">Scholar Google</a>
-                  and <a href="https://www.researchgate.net/profile/Marcus-Yung">Research Gate</a>Research Gate
+               <p>See <a href="https://scholar.google.ca/citations?user=TF5YVAcAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> Scholar Google </a>
+                  and <a href="https://www.researchgate.net/profile/Marcus-Yung" target="_blank" rel="noopener noreferrer"> Research Gate </a>
                   for a full list of publications.</p>
             </div>
 

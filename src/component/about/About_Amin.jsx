@@ -33,18 +33,18 @@ export default function About_Amin() {
 
                <p>In collaboration with industry stakeholders,
                   Dr. Yazdani spearheaded the development of the Canadian Standard for
-                  &nbsp;<a href="https://www.csagroup.org/store/product/CSA%20D500:20/">Ergonomic Design for Ambulances
+                  &nbsp;<a href="https://www.csagroup.org/store/product/CSA%20D500:20/" target="_blank" rel="noopener noreferrer">Ergonomic Design for Ambulances
                      and Related Equipment (CSA D500) </a> and
-                  &nbsp;<a href="https://www.csagroup.org/store/product/CSA%20Z1011:20/">Work Disability Management System
+                  &nbsp;<a href="https://www.csagroup.org/store/product/CSA%20Z1011:20/" target="_blank" rel="noopener noreferrer">Work Disability Management System
                      (CSA Z1011:20)</a>.
                   He has also served as a co-chair for the technical committee to develop a Canadian Standard for
-                  &nbsp;<a href="https://www.csagroup.org/store/product/2704213/">Career-inclusive and Accommodating
+                  &nbsp;<a href="https://www.csagroup.org/store/product/2704213/" target="_blank" rel="noopener noreferrer">Career-inclusive and Accommodating
                      Organizations (CSA B701-17)</a>
                   and contributed to the development of
                   several Canadian Standards including the standard for
-                  &nbsp;<a href="https://www.csagroup.org/store/product/2701197/">Office Ergonomics (CSA Z412-17)</a>.</p>
+                  &nbsp;<a href="https://www.csagroup.org/store/product/2701197/" target="_blank" rel="noopener noreferrer">Office Ergonomics (CSA Z412-17)</a>.</p>
                <p>Dr. Yazdani also co-led a multi-stakeholder initiative to develop a new
-                  &nbsp;<a href="https://www.msdprevention.com/">MSD Prevention Guide for Ontario</a>.
+                  &nbsp;<a href="https://www.msdprevention.com/" target="_blank" rel="noopener noreferrer">MSD Prevention Guide for Ontario</a>.
                   Currently, he is spearheading several important initiatives and serves as the chair of
                   several standards development technical committees including the development of the following
                   Canadian Standards:</p>
@@ -59,8 +59,8 @@ export default function About_Amin() {
                   He is also a Certified Safety Professional.</p>
 
                <h6>Publications</h6>
-               <p>See &nbsp;<a href="https://scholar.google.ca/citations?user=BH_y_EkAAAAJ&hl=en&oi=ao">Scholar Google</a>
-                  and &nbsp;<a href="https://www.researchgate.net/profile/Amin-Yazdani">Research Gate</a> Research Gate
+               <p>See <a href="https://scholar.google.ca/citations?user=BH_y_EkAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> Scholar Google </a>
+                  and <a href="https://www.researchgate.net/profile/Amin-Yazdani" target="_blank" rel="noopener noreferrer"> Research Gate </a>
                   for a full list of publications.</p>
             </div>
 

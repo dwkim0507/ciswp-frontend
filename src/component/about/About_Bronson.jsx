@@ -38,8 +38,8 @@ export default function About_Bronson() {
                   both from University of Waterloo</p>
 
                <h6>Publications</h6>
-               <p>See <a href="https://scholar.google.com/citations?user=bwUZpH4AAAAJ&hl=en">Scholar Google</a>
-                  and <a href="https://www.researchgate.net/profile/Bronson-Du">Research Gate</a>Research Gate
+               <p>See <a href="https://scholar.google.com/citations?user=bwUZpH4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Scholar Google </a>
+                  and <a href="https://www.researchgate.net/profile/Bronson-Du" target="_blank" rel="noopener noreferrer">Research Gate </a>
                   for a full list of publications.</p>
             </div>
 

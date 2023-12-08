@@ -23,7 +23,7 @@ export default function About_people() {
                   <Link to="/amin" onClick={() => { window.scroll(0, 0); }} class="text-decoration-none"><div class={styles.cardP_body}>
                      <div class={styles.cardP_text}>
                         Amin Yazdani, PhD, CSP</div>
-                     <div class={styles.cardP_text2}>EXECUTIVE DIRECTOR</div>
+                     <div class={styles.cardP_text2}>Executive Director</div>
                   </div></Link>
                </div>
             </div>
@@ -33,7 +33,7 @@ export default function About_people() {
                   <Link to="/marcus" onClick={() => { window.scroll(0, 0); }}><img src="./img/people/marcus.png" class="card-img-top" alt="" /></Link>
                   <Link to="/marcus" onClick={() => { window.scroll(0, 0); }} class="text-decoration-none"><div class={styles.cardP_body}>
                      <div class={styles.cardP_text}>Marcus Yung, PhD, CPE</div>
-                     <div class={styles.cardP_text2}>DIRECTOR</div>
+                     <div class={styles.cardP_text2}>Director</div>
                   </div></Link>
                </div>
             </div>
@@ -43,7 +43,7 @@ export default function About_people() {
                   <Link to="/nicki" onClick={() => { window.scroll(0, 0); }}><img src="./img/people/nicki.png" class="card-img-top" alt="" /></Link>
                   <Link to="/nicki" onClick={() => { window.scroll(0, 0); }} class="text-decoration-none"><div class={styles.cardP_body}>
                      <div class={styles.cardP_text}>Nicki Islic, M.Sc</div>
-                     <div class={styles.cardP_text2}>ASSOCIATE DIRECTOR</div>
+                     <div class={styles.cardP_text2}>Associate Director</div>
                   </div></Link>
                </div>
             </div>
@@ -61,7 +61,7 @@ export default function About_people() {
                   <Link to="/bronson" onClick={() => { window.scroll(0, 0); }}><img src="./img/people/bronson.png" class="card-img-top" alt="" /></Link>
                   <Link to="/bronson" onClick={() => { window.scroll(0, 0); }} class="text-decoration-none"><div class={styles.cardP_body}>
                      <div class={styles.cardP_text}>Bronson Du, M.Sc.</div>
-                     <div class={styles.cardP_text2}>RESEARCHER</div>
+                     <div class={styles.cardP_text2}>Researcher</div>
                   </div></Link>
                </div>
             </div>
@@ -71,26 +71,30 @@ export default function About_people() {
                   <Link to="/kumar" onClick={() => { window.scroll(0, 0); }}><img src="./img/people/kumar.png" class="card-img-top" alt="" /></Link>
                   <Link to="/kumar" onClick={() => { window.scroll(0, 0); }} class="text-decoration-none"><div class={styles.cardP_body}>
                      <div class={styles.cardP_text}>Kumar Soma, M.Sc.</div>
-                     <div class={styles.cardP_text2}>RESEARCHER</div>
+                     <div class={styles.cardP_text2}>Laboratory Manager</div>
                   </div></Link>
                </div>
             </div>
-
+            <div class="col">
+               <div class={styles.cardP}>
+                  <Link to="/binh" onClick={() => { window.scroll(0, 0); }}><img src="./img/people/binh.png" class="card-img-top" alt="" /></Link>
+                  <Link to="/binh" onClick={() => { window.scroll(0, 0); }} class="text-decoration-none"><div class={styles.cardP_body}>
+                     <div class={styles.cardP_text}>Binh Ngo, M.Sc., CPE</div>
+                     <div class={styles.cardP_text2}>Research Project Manager</div>
+                  </div></Link>
+               </div>
+            </div>
             <div class="col">
                <div class={styles.cardP}>
                   <Link to="/victoria" onClick={() => { window.scroll(0, 0); }}><img src="./img/people/victoria.png" class="card-img-top" alt="" /></Link>
                   <Link to="/victoria" onClick={() => { window.scroll(0, 0); }} class="text-decoration-none"><div class={styles.cardP_body}>
                      <div class={styles.cardP_text}>Victoria Gevaert, M.Sc</div>
-                     <div class={styles.cardP_text2}>RESEARCHER</div>
+                     <div class={styles.cardP_text2}>Researcher</div>
                   </div></Link>
                </div>
             </div>
 
          </div>
-
-         <br /><br />
-
-         <h4 class="ps-4">Stakeholder Advisory Committee</h4>
 
          <br /><br />
 

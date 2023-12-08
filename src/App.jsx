@@ -10,6 +10,7 @@ import Main_people_Marcus from "./component/Main_people_marcus";
 import Main_people_Nicki from "./component/Main_people_nicki";
 import Main_people_Bronson from "./component/Main_people_bronson";
 import Main_people_Kumar from "./component/Main_people_kumar";
+import Main_people_Binh from "./component/Main_people_binh";
 import Main_people_Victoria from "./component/Main_people_victoria";
 
 import Main_stride from './component/Main_stride';
@@ -43,6 +44,7 @@ function App() {
         <Route path="nicki" element={<Main_people_Nicki />} />
         <Route path="bronson" element={<Main_people_Bronson />} />
         <Route path="kumar" element={<Main_people_Kumar />} />
+        <Route path="binh" element={<Main_people_Binh />} />
         <Route path="victoria" element={<Main_people_Victoria />} />
 
         <Route path="research_1" element={<Main_research_1 />} />
